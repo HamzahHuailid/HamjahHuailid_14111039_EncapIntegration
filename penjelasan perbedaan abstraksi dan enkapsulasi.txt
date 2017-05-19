@@ -1,0 +1,8 @@
+Perbedaan abstraksi dan enkapsulasi
+
+# pada kelas abstraksi tidak bisa di panggil di kelas abstraksi itu sendiri,bisa di panggil oleh kelas turunan nya
+# pada enkapsulasi setiap atribut di set private
+# pada enkapsulasi hanya bisa d akses oleh kelas itu sendiri dan hanya menampilkan apa yang di butuhkan saja
+
+
+sebagai contoh kita mau masuk ke sebuah media sosial, hanyak user name nya yg d tampilkan tapi password nya tidak.  
